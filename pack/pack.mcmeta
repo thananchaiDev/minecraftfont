@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"pack_format": 34,
+		"min_format": 34,
+		"max_format": 84,
+		"supported_formats": {
+			"min_inclusive": 34,
+			"max_inclusive": 84
+		},
+		"description": "§fThai = Prompt / EN = vanilla\n§7Fork of ThaiFontFix §8• custom"
+	}
+}

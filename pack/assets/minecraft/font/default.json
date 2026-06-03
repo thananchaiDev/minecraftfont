@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:thaifontfix.ttf",
+            "size": 16,
+            "shift": [0, -1],
+            "oversample": 16
+        }
+    ]
+}

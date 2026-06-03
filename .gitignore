@@ -1,0 +1,5 @@
+# source font downloads (not redistributed in-repo; only the subset in pack/ ships)
+src/
+
+# build artifact — attached to GitHub release instead
+*.zip
